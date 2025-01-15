@@ -17,7 +17,9 @@ Features
   •	Model evaluation 
 
 Technologies Used
+  
   Programming Language: Python 
+  
   Libraries and Tools: Pandas, NumPy, Matplotlib, Seaborn, Sklearn, SciPy, Statsmodels, Jupyter Notebook, Google Collab 
 
 Dataset:
