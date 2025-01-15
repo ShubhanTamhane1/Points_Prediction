@@ -12,24 +12,13 @@ Features
   
   •	Preprocessing of NBA player performance datasets
   
-  •	Testing of assumptions required for analysis in Linear Regression 
-    o	Linearity of relationships
-    o	Homoscedasticity
-    o	Normality of residuals 
+  •	Testing of assumptions required for analysis in Linear Regression:Linearity of relationships, Homoscedasticity, Normality of residuals 
   
   •	Model evaluation 
 
 Technologies Used
   Programming Language: Python 
-  Libraries and Tools:
-    •	Pandas
-    •	NumPy
-    •	Matplotlib
-    •	Seaborn
-    •	Sklearn
-    •	SciPy
-    •	Statsmodels
-    •	Jupyter Notebook 
+  Libraries and Tools: Pandas, NumPy, Matplotlib, Seaborn, Sklearn, SciPy, Statsmodels, Jupyter Notebook, Google Collab 
 
 Dataset:
   The dataset includes NBA player performance statistics, such as:
