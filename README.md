@@ -29,9 +29,11 @@ Dataset:
   Source: https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season
 
 Results: 
-  Model Performance: 
-    •	R^2: 98.8%
-    •	MSE: 2929.35
+    
+•	R^2: 98.8%
+    
+•	MSE: 2929.35
+  
   Key Insights: Players who made more field goals scored more points, with some variation explained by other factors such as three pointers, free throws, or normal field goals. 
 
 
