@@ -10,14 +10,14 @@ Using **statistical methods** to predict the points scored by NBA players while 
   
   --
 
-##Features 
+## 📌 Features 
 - Preprocessing of NBA player performance datasets
 - Testing of assumptions required for analysis in Linear Regression:Linearity of relationships, Homoscedasticity, Normality of residuals 
 - Model evaluation 
 
 --
 
-##Technologies Used
+## 📌 Technologies Used
 - **Programming Language: Python** 
 Libraries and Tools: 
 - Pandas 
@@ -31,7 +31,7 @@ Libraries and Tools:
 
 --
 
-##Dataset
+## 📂 Dataset
 The dataset includes NBA player performance statistics, such as:
 - Predictor: Field Goals Made
 - Target: Points Scored 
@@ -40,7 +40,7 @@ The dataset includes NBA player performance statistics, such as:
 
 --
 
-Results: 
+## 📊 Results: 
 - **R²  Score **: 98.8%
 - MSE: 2929.35
   
