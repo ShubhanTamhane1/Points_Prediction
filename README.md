@@ -11,8 +11,8 @@ The goal of this project is to use **linear regression** to predict the points s
 
 ## 📡 Technologies Used
 - **Programming Language: Python** 
-Libraries and Tools: 
-- Pandas 
+- Libraries and Tools: 
+  - Pandas 
 - NumPy
 - Matplotlib
 - Seaborn
