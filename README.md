@@ -13,18 +13,19 @@ The goal of this project is to use **linear regression** to predict the points s
 - **Programming Language: Python** 
 - Libraries and Tools: 
   - Pandas 
-- NumPy
-- Matplotlib
-- Seaborn
-- Sklearn
-- SciPy
-- Statsmodels
-- Jupyter Notebook
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Sklearn
+  - SciPy
+  - Statsmodels
+  - Jupyter Notebook
 
 ## 📂 Dataset
 The dataset includes NBA player performance statistics, such as:
 - Predictor: Field Goals Made
 - Target: Points Scored 
+
 **Source**: https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season
 
 ## 📊 Results: 
