@@ -4,7 +4,7 @@ NBA Player Points Prediction
 
 Using **statistical methods** to predict the points scored by NBA players while thoroughly testing regression assumptions. 
 
-##Overview
+## 📌 Overview
   
   The goal of this project is to use **linear regression** to predict the points scored by an NBA player in a game using **Python**. The project focuses on building a reliable regression model and thoroughly testing all assumptions, such as linearity, homoscedasticity, and normality. The project aims to assist analysts, coaches, fantasy players and fans by providing an accurate representation of a player’s performance. 
   
